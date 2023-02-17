@@ -1,0 +1,51 @@
+[
+  {
+    "type": "native",
+    "name": "frcCpp",
+    "port": 8349,
+    "target": "172.22.11.2",
+    "launchfile": "C:\\Users\\dvrob\\hello world-Imported 2023 SparkMaxCAN\\build\\exe\\frcUserProgram\\release\\frcUserProgram",
+    "gdb": "C:\\Users\\Public\\wpilib\\2023\\roborio\\bin\\arm-frc2023-linux-gnueabi-gdb.exe",
+    "sysroot": "C:\\Users\\Public\\wpilib\\2023\\roborio",
+    "srcpaths": [
+      "C:\\Users\\dvrob\\hello world-Imported 2023 SparkMaxCAN\\src\\main\\cpp",
+      "C:\\Users\\dvrob\\hello world-Imported 2023 SparkMaxCAN\\src\\main\\include"
+    ],
+    "headerpaths": [
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\1948519abc748fcdf30ccfd538ed891a\\transformed\\wpilibNewCommands-cpp-2023.2.1-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\82015f0c4979a18c3c73aa967b137214\\transformed\\REVLib-cpp-2023.1.2-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\d9c60d7052d05aea2069f93a867ebe90\\transformed\\REVLib-driver-2023.1.2-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\6b13197faeafb1e7e88793ea14756f68\\transformed\\wpilibc-cpp-2023.2.1-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\c9142726d9d4952c7880230813bb381a\\transformed\\ntcore-cpp-2023.2.1-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\a51c89c2d2f24d26a2b9a437315a8043\\transformed\\hal-cpp-2023.2.1-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\67c731632d623536b68b77872e1eb1e0\\transformed\\wpimath-cpp-2023.2.1-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\4115cfc5a7dbaabfe7fa0b83aa57fe28\\transformed\\wpinet-cpp-2023.2.1-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\8df502a6afc6082d68afb217447a161e\\transformed\\wpiutil-cpp-2023.2.1-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\f4764404cff3c055c4122c4c56804121\\transformed\\netcomm-2023.3.0-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\62fe7845693747b64760f9c7ad1d8789\\transformed\\chipobject-2023.3.0-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\84e1369b24631c6c4f99eb26790b5d58\\transformed\\visa-2023.3.0-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\9cc1901f61fa9a4472aec274461f63c8\\transformed\\cameraserver-cpp-2023.2.1-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\50d0ea836f2ec41ac99bbb4f094c3996\\transformed\\cscore-cpp-2023.2.1-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\f5a884f964edc958dc24bffbaaf7afbf\\transformed\\apriltag-cpp-2023.2.1-headers",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\fd77524ea9abecf2450251a76b4c6c22\\transformed\\opencv-cpp-4.6.0-4-headers",
+      "C:\\Users\\dvrob\\hello world-Imported 2023 SparkMaxCAN\\src\\main\\include"
+    ],
+    "libpaths": [
+      "C:\\Users\\dvrob\\hello world-Imported 2023 SparkMaxCAN\\build\\install\\frcUserProgram\\release\\lib",
+      "C:\\Users\\dvrob\\hello world-Imported 2023 SparkMaxCAN\\build\\install\\frcUserProgram\\release"
+    ],
+    "libsrcpaths": [
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\9670ef0a35fd16161cf93addef274d55\\transformed\\wpilibNewCommands-cpp-2023.2.1-sources",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\73e8549d36ada6ec101b32630badda01\\transformed\\wpilibc-cpp-2023.2.1-sources",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\32d2d66f8c7191616e2a4ef74eb7e9fb\\transformed\\ntcore-cpp-2023.2.1-sources",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\cb07edc32463b9a884bdf97947c54ba9\\transformed\\hal-cpp-2023.2.1-sources",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\ae4f537d1e4c6a74c626afb98693c857\\transformed\\wpimath-cpp-2023.2.1-sources",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\30059629a8e005f1371452d9eea805a1\\transformed\\wpinet-cpp-2023.2.1-sources",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\179ede2487637d03cb5e7fe915904cab\\transformed\\wpiutil-cpp-2023.2.1-sources",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\865bb8fbf5a15c96646019672a884519\\transformed\\cameraserver-cpp-2023.2.1-sources",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\b8898d388012bb90dfcea2f89cace219\\transformed\\cscore-cpp-2023.2.1-sources",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\1c60e995398ce0a331eae5c9ef4e9dce\\transformed\\apriltag-cpp-2023.2.1-sources",
+      "C:\\Users\\dvrob\\.gradle\\caches\\transforms-3\\a16637042c7e6710a187fac06daa0e8e\\transformed\\opencv-cpp-4.6.0-4-sources"
+    ]
+  }
+]
